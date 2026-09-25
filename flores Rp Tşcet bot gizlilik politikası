@@ -1,0 +1,23 @@
+Flores RP Ticket ] - Gizlilik Politikası
+
+Son Güncelleme Tarihi: [26.08.2026]
+
+Bu Gizlilik Politikası, [Flores RP Ticket] ("Bot") tarafından sağlanan hizmetleri kullanırken kullanıcıların ve sunucuların verilerinin nasıl toplandığını, işlendiğini ve korunduğunu açıklar. Botumuzu sunucunuza ekleyerek bu politikayı kabul etmiş sayılırsınız.
+
+### 1. Toplanan Veriler
+Botumuz, Discord API aracılığıyla yalnızca işlevini yerine getirmek için gerekli olan minimum düzeyde veriyi işler. Toplanan veriler şunlardır:
+- **Kullanıcı Bilgileri:** Kullanıcı ID'leri, kullanıcı adları (destek odası başlıkları ve etiketlemeler için).
+- **Sunucu Bilgileri:** Sunucu ID'leri, kanal ID'leri ve rol ID'leri (bilet sisteminin doğru çalışması ve yetkililerin etiketlenmesi için).
+
+### 2. Verilerin Kullanım Amacı
+Toplanan veriler yalnızca şu amaçlarla kullanılır:
+- Kullanıcılar butona bastığında kişiye özel destek (ticket) kanalları oluşturmak.
+- Belirlenen yetkili rollerine bildirim göndermek.
+- Botun teknik olarak kararlı çalışmasını sağlamak.
+
+### 3. Veri Paylaşımı ve Saklama
+- Verileriniz hiçbir şekilde üçüncü şahıslarla, reklam şirketleriyle veya harici platformlarla paylaşılmaz veya satılmaz.
+- Destek odaları kapatıldığında (silindiğinde), o odaya ait anlık işlem verileri Discord sunucunuzdan temizlenir ve botumuz üzerinde kalıcı olarak saklanmaz.
+
+### 4. İletişim
+Gizlilik politikamız hakkında sorularınız veya veri silme talepleriniz için [mustafa enes sarı // Kullanıcı adı: larux212 // Mail: mustafaenes2950@gmail.com] üzerinden bizimle iletişime geçebilirsiniz.
